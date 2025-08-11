@@ -24,12 +24,7 @@ Hand2Help is a web-based platform that enables NGOs to **find, manage, and engag
 - Flask-RESTful (API development)  
 - Flask-JWT-Extended (authentication)  
 - Flask-CORS (handling frontend-backend communication)  
-- SQLite / PostgreSQL (database)  
-
-### **Deployment**  
-- Frontend: **Vercel / Netlify**  
-- Backend: **Render / Railway / AWS Free Tier**  
-- Database: **SQLite for testing, PostgreSQL for production**  
+- SQLite(database)  
 
 ## **🗂️ Project Structure**  
 ```
